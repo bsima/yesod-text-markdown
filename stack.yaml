@@ -3,5 +3,6 @@ flags:
     bytestring-builder: false
 packages:
 - '.'
-resolver: lts-10.10
-allow-newer: true
+resolver: lts-11.7
+nix:
+  packages: [ zlib ]
