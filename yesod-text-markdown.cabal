@@ -21,11 +21,11 @@ description:         Use Text.Markdown in a typical yesod project.
                      it's because it doesn't show exporting of instances which
                      is most of what this package is about.
 
-bug-reports:         https://github.com/Tarrasch/yesod-text-markdown/issues
+bug-reports:         https://github.com/bsima/yesod-text-markdown/issues
 license:             BSD3
 license-file:        LICENSE
 author:              Arash Rouhani
-maintainer:          miffoljud@gmail.com
+maintainer:          ben@bsima.me
 -- copyright:
 category:            Yesod
 build-type:          Simple
@@ -46,4 +46,4 @@ library
 
 source-repository head
   type: git
-  location: git://github.com/Tarrasch/yesod-text-markdown.git
+  location: git://github.com/bsima/yesod-text-markdown.git
